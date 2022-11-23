@@ -1,20 +1,20 @@
 var product = [{
     id: 1,
-    img:'img/sport1.webp',
+    img:'final/img/sport1.webp',
     name: 'CODECHAOS 22 SPIKELESS SHOES',
     price: 4900,
     description: 'SPIKELESS GOLF SHOES MADE IN PART WITH RECYCLED MATERIALS\.It\'s time to turn up your game. Take the lead in these adidas Codechaos 22 golf shoes. With a design that amplifies everything a spikeless shoe can be, they set you up to shave strokes in style. From the stance stability of the wraparound outsole to the swing-boosting traction of Twist Grip and the energised feel of full-length BOOST, they maximise everything you need on the course. Tour-level performance has never looked like this before.',
     type: 'Sport',
 }, {
     id: 2,
-    img: 'img/sport2.webp',
+    img: 'final/img/sport2.webp',
     name: 'ULTRABOOST 22 SHOES',
     price: 7000,
     description: 'SAY HELLO TO INCREDIBLE ENERGY RETURN\.These Ultraboost running shoes serve up comfort and responsiveness. You\'ll be riding on a BOOST midsole for endless energy, with a Linear Energy Push system and a Continental™ Rubber outsole. This shoe\'s upper is made with a high-performance yarn which contains at least 50% Parley Ocean Plastic —  reimagined plastic waste, intercepted on remote islands, beaches, coastal communities and shorelines, preventing it from polluting our ocean.',
     type: 'Sport',
 }, {
     id: 3,
-    img: 'img/sport3.jpg',
+    img: 'final/img/sport3.jpg',
     name: 'เป้าหุ่นชกมวย VIVA 1710A1',
     price: 22600,
     description: 'ฝึกซ้อมมวยได้อย่างเต็มกำลังด้วยเป้าหุ่นชกมวย จาก VIVA ดีไซน์ถูกออกแบบมาให้เสมือนคนจริง สร้างความรู้สึกเหมือนได้เข้าปะทะกับคู่ต่อสู้ตรงหน้า ให้คุณใส่ได้ทุกกระบวนท่าแบบไม่มียั้ง ตัวช่วยในการออกกำลังกายและฝึกซ้อมได้อย่างมีประสิทธิภาพ ทั้งยังเสริมสร้างความแข็งแกร่งของกล้ามเนื้อส่วนต่าง ๆ ได้เป็นอย่างดี ตอบโจทย์การใช้งานที่คุ้มค่า',

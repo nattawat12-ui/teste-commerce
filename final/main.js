@@ -1,6 +1,6 @@
 var product = [{
     id: 1,
-    img:'final/img/sport1.webp',
+    img:'../img/sport1.webp',
     name: 'CODECHAOS 22 SPIKELESS SHOES',
     price: 4900,
     description: 'SPIKELESS GOLF SHOES MADE IN PART WITH RECYCLED MATERIALS\.It\'s time to turn up your game. Take the lead in these adidas Codechaos 22 golf shoes. With a design that amplifies everything a spikeless shoe can be, they set you up to shave strokes in style. From the stance stability of the wraparound outsole to the swing-boosting traction of Twist Grip and the energised feel of full-length BOOST, they maximise everything you need on the course. Tour-level performance has never looked like this before.',
